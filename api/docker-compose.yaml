@@ -6,6 +6,7 @@ services:
       - "3306:3306"
     environment:
       - MYSQL_ALLOW_EMPTY_PASSWORD=true
+    cap_add: [ SYS_NICE ]
   etherpad:
     image: etherpad/etherpad:stable
     ports:
