@@ -14,3 +14,5 @@ Three videos (in french) are available. They present:
 
 For french native speaker that wants to follow the course. The course web page is available [here](https://hackmd.diverse-team.fr/s/SJqu5DjSD).
    
+
+ 
